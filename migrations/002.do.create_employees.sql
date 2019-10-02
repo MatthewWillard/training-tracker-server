@@ -5,6 +5,7 @@ CREATE TABLE employees (
   name TEXT NOT NULL,
   trainings TEXT NOT NULL,
   trainings2 TEXT NOT NULL,
+  trainings3 TEXT NOT NULL,
   level TEXT NOT NULL,
   manager_id INTEGER REFERENCES manager_users(id) NOT NULL
 );

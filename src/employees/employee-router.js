@@ -35,6 +35,7 @@ employeeRouter
       name: name,
       trainings: '',
       trainings2: '',
+      trainings3: '',
       level: '',
       manager_id: user_id,
     };
@@ -63,9 +64,9 @@ employeeRouter
   })
   .patch(jsonBodyParser, (req, res, next) => {
     const { employeeId } = req.params;
-    const { trainings, trainings2, level } = req.body;
+    const { trainings, trainings2, trainings3, level } = req.body;
 
-    if (!employeeId || !trainings || !trainings2 || !level) {
+    if (!employeeId || !trainings || !trainings2 || !trainings3 || !level) {
       logger.error('employeeId, trianings, and level are required');
       return res.status(400).send('Invalid data');
     }
@@ -74,6 +75,7 @@ employeeRouter
       id: employeeId,
       trainings,
       trainings2,
+      trainings3,
       level,
     };
 

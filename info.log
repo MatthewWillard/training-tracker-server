@@ -36,3 +36,25 @@
 {"message":"Employee with id: 4 was updated.","level":"info"}
 {"message":"Employee with id: 4 was updated.","level":"info"}
 {"message":"Employee with id: 2 was updated.","level":"info"}
+{"message":"Employee with id: 1 created.","level":"info"}
+{"message":"Employee with id: 1 was updated.","level":"info"}
+{"message":"Employee with id: 2 created.","level":"info"}
+{"message":"Employee with id: 3 created.","level":"info"}
+{"message":"Employee with id: 1 was updated.","level":"info"}
+{"message":"Employee with id: 4 created.","level":"info"}
+{"message":"Employee with id: 5 created.","level":"info"}
+{"message":"Employee with id: 6 created.","level":"info"}
+{"message":"Employee with id: 3 was updated.","level":"info"}
+{"message":"Employee with id: 5 was deleted.","level":"info"}
+{"message":"Employee with id: 6 was deleted.","level":"info"}
+{"message":"Employee with id: 3 was deleted.","level":"info"}
+{"message":"Employee with id: 7 created.","level":"info"}
+{"message":"Employee with id: 7 was deleted.","level":"info"}
+{"message":"Employee with id: 8 created.","level":"info"}
+{"message":"Employee with id: 9 created.","level":"info"}
+{"message":"Employee with id: 10 created.","level":"info"}
+{"message":"Employee with id: 11 created.","level":"info"}
+{"message":"Employee with id: 12 created.","level":"info"}
+{"message":"Employee with id: 2 was updated.","level":"info"}
+{"message":"Employee with id: 2 was updated.","level":"info"}
+{"message":"Employee with id: 11 was deleted.","level":"info"}
