@@ -58,3 +58,6 @@
 {"message":"Employee with id: 2 was updated.","level":"info"}
 {"message":"Employee with id: 2 was updated.","level":"info"}
 {"message":"Employee with id: 11 was deleted.","level":"info"}
+{"message":"Employee with id: 13 created.","level":"info"}
+{"message":"Employee with id: 13 was updated.","level":"info"}
+{"message":"Employee with id: 2 was deleted.","level":"info"}
