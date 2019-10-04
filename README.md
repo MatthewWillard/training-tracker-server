@@ -5,7 +5,7 @@
 
 ## Motivation
 ---
-I spent the last 6 years in management and had to train several new employees each month.  I used a worksheet to keep track of completed trainings and what trainings needed to be done next.  Unfortunatly sometimes other employees would do the trainings but wouldn't fill out the worksheet.  My idea was to digitize this process to make it easier for managers to keep up with whose been trained on what.  
+I spent the last 6 years in management and had to train several new employees each month.  I used a worksheet to keep track of completed trainings and what training needed to be done next.  Unfortunately sometimes other employees would do the trainings but wouldn't fill out the worksheet.  My idea was to digitize this process to make it easier for managers to keep up with whose been trained on what.  
 
 ---
 
